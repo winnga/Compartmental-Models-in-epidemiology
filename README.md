@@ -27,10 +27,10 @@ The SIRIs model is an extension of the classic SIR model that incorporates the c
 - Recovered (R): Individuals who have recovered from the disease and are immune.
 - Isolated (Is): Individuals who have been isolated or quarantined to prevent further transmission.
 The graph below demonstrates the change of population in the mentioned groups:
-![My Image](SIRI-graph.png)
+![My Image](SIRIs-graph.png)
 
 By incorporating isolation into the model, the SIRIs framework allows for the assessment of the effectiveness of isolation measures in controlling or mitigating the spread of infectious diseases. It helps to understand how isolating infected individuals can reduce the overall transmission rate and potentially slow down the epidemic curve.
 The final SIRIs model can be implemented as below:
-![My Image](SIRI.png)
+![My Image](SIRIs.png)
 
 
